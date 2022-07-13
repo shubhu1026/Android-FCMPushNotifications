@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922419011671",
+    "project_id": "fcmpushnotifications-1effc",
+    "storage_bucket": "fcmpushnotifications-1effc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922419011671:android:243443ae26f28b0e5a8312",
+        "android_client_info": {
+          "package_name": "com.example.fcmpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922419011671-ko2ko1f7rr73suoqguo3v9v9u664qfqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkis5Gw6ggMqK7kA9lbZlhH9hLmuyb6sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922419011671-ko2ko1f7rr73suoqguo3v9v9u664qfqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
